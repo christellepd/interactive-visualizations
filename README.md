@@ -1,7 +1,3 @@
-# interactive-visualizations
-Dashboards made with Plotly
-
-
 # :earth_americas: Geospatial Visualizations
 ![](./images/geospatial.png)
 
@@ -11,7 +7,7 @@ This repository shows an interactive visualization of climate data made with Plo
 
 ---
 ### :computer: Tools
-`Python` `Pandas` `NumPy` `SQL with Python` `Plotly`
+`Python` `Pandas` `NumPy` `SQLAlchemy` `Plotly`
 
 
 ---
