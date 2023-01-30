@@ -6,7 +6,7 @@
 This repository shows an interactive visualization of climate data made with Plotly.
 
 ---
-### :computer: Tools
+### :computer: Tech Stack
 `Python` `Pandas` `NumPy` `SQLAlchemy` `Plotly`
 
 
